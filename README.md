@@ -1,4 +1,4 @@
-# Data-Cleaning-Feature-Engineering-and-Modeling-on-Manufacturing-Data
+# Data Cleaning Feature Engineering and Modeling on Manufacturing Data
 
 This is a code for a fully automated data analysing tool as a part of Industry 4.0 project with Python and MongoDB.
 - The activity includes the creation of a Python program for workpiece-specific data acquisition from multiple sources, ie, DAS Server, IOTGateway, and MongoDB.
